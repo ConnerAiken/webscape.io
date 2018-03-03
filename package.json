@@ -1,0 +1,22 @@
+{
+  "name": "webscape",
+  "version": "1.0.0",
+  "description": "Webscape front end website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/conneraiken.com/webscape.io.git"
+  },
+  "keywords": [
+    "webscape.io"
+  ],
+  "author": "Conner Aiken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conneraiken.com/webscape.io/issues"
+  },
+  "homepage": "https://github.com/conneraiken.com/webscape.io#readme"
+}
